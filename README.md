@@ -16,7 +16,7 @@ uyanwanne-emmanuel-b25865347
 
 ### 🧠 About Me
 
-- 🎓 Electrical & Electronic Engineer
+- 🎓 Electrical & Electronics Engineer
 - 💻 Frontend developer specializing in **React** and modern JavaScript
 - 🔗 Exploring **Web3**, blockchain bounties and AI agents
 - 🎨 I draw when I'm not coding
