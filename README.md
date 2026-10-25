@@ -4,8 +4,10 @@
 
 **Frontend Developer · Web3 Explorer · Building in Public**
 
-<a href="https://twitter.com/emmyanzx"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="https://linkedin.com/in/emmyanzx"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://x.com/usher__x"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="www.linkedin.com/in/
+uyanwanne-emmanuel-b25865347
+"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/emmyanzx"><img src="https://skillicons.dev/icons?i=github" /></a>
 
 </div>
