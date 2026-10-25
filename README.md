@@ -19,7 +19,7 @@ uyanwanne-emmanuel-b25865347
 - 🎓 Electrical & Electronics Engineer
 - 💻 Frontend developer specializing in **React** and modern JavaScript
 - 🔗 Exploring **Web3**, blockchain bounties and AI agents
-- 🎨 I draw when I'm not coding
+- 🎨 I create when I'm not coding
 - 🚀 Currently building: **HNG15 projects, RYO-CHAN Hackathon agent, Archive94 shop**
 
 ---
