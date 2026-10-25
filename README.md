@@ -46,7 +46,7 @@ uyanwanne-emmanuel-b25865347
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [SwiftHaul Logistics](https://swifthaul-logistics-ashen.vercel.app/) | Logistics landing page with interactive tracking | React, Vercel |
+| [SwiftHaul Logistics] | Logistics landing page with interactive tracking | React, Vercel |
 | QuickBite | Food delivery app with Paystack integration | React, Node.js |
 | Full-Stack Auth System | JWT auth with role-based access control | React, Express, MongoDB |
 | Bull/Bear Debate Agent | AI agents debating crypto tokens live | Claude API, React |
