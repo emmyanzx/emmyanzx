@@ -4,8 +4,9 @@
 
 **Frontend Developer · Web3 Explorer · Building in Public**
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/usher__x)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/uyanwanne-emmanuel-b25865347)
+<a href="https://twitter.com/emmyanzx"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://linkedin.com/in/emmyanzx"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/emmyanzx"><img src="https://skillicons.dev/icons?i=github" /></a>
 
 </div>
 
@@ -20,18 +21,23 @@
 - 🚀 Currently building: **HNG15 projects, RYO-CHAN Hackathon agent, Archive94 shop**
 
 ---
-
 ### 🛠️ Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+**Frontend**
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs)](https://skillicons.dev)
+
+**Backend**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,rust)](https://skillicons.dev)
+
+**Database**
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,supabase,firebase)](https://skillicons.dev)
+
+**Web3 & Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=solana,git,github,vercel,vscode,figma,postman,docker)](https://skillicons.dev)
 ---
 
 ### 🚀 Featured Projects
