@@ -2,9 +2,6 @@
 
 
 
-**Product manager · Web3 Explorer · Building in Public**
-
-###Stack
 
 **Frontend**
 
@@ -23,14 +20,8 @@
 [![My Skills](https://skillicons.dev/icons?i=solana,git,github,vercel,vscode,figma,postman,docker)](https://skillicons.dev)
 ---
 
-### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [SwiftHaul Logistics] | Logistics landing page with interactive tracking | React, Vercel |
-| QuickBite | Food delivery app with Paystack integration | React, Node.js |
-| Full-Stack Auth System | JWT auth with role-based access control | React, Express, MongoDB |
-| Bull/Bear Debate Agent | AI agents debating crypto tokens live | Claude API, React |
+
 
 ---
 
