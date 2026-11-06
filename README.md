@@ -2,27 +2,8 @@
 
 # Hey, I'm Emmyanzo 👋
 
-**Frontend Developer · Web3 Explorer · Building in Public**
+**Product manager · Web3 Explorer · Building in Public**
 
-<a href="https://x.com/usher__x"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="www.linkedin.com/in/
-uyanwanne-emmanuel-b25865347
-"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://github.com/emmyanzx"><img src="https://skillicons.dev/icons?i=github" /></a>
-
-</div>
-
----
-
-### 🧠 About Me
-
--  Electrical & Electronics Engineer
--  Frontend developer specializing in **React** and modern JavaScript
--  Exploring **Web3**, blockchain bounties and AI agents
--  I create when I'm not coding
--  Currently building: **HNG15 projects, RYO-CHAN Hackathon agent, Archive94 shop**
-
----
 ### 🛠️ Tech Stack
 
 **Frontend**
