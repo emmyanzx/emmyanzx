@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey, I'm Emmyanzo 👋
+
 
 **Product manager · Web3 Explorer · Building in Public**
 
-### 🛠️ Tech Stack
+###Stack
 
 **Frontend**
 
