@@ -39,7 +39,6 @@
 
 ### 📬 Let's Connect
 
-I'm open to freelance projects, collaborations and internship opportunities.
 
 **uyamanny203@gmail.com**
 
