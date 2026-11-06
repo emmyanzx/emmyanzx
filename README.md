@@ -15,9 +15,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,supabase,firebase)](https://skillicons.dev)
 
-**Web3 & Tools**
+**Web Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=solana,git,github,vercel,vscode,figma,postman,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,postman,docker)](https://skillicons.dev)
 ---
 
 
